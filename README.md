@@ -1,0 +1,1 @@
+Learning Javascript through building Js rpojects and implementing whatever I had learned earlier On Js. This code was mostly borrowed from courses.wesbos.com
